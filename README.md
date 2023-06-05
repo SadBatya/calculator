@@ -1,1 +1,1 @@
-# calculator ['https://sadbatya.github.io/calculator/']
+https://sadbatya.github.io/calculator/
